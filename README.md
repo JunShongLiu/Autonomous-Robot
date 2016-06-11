@@ -1,5 +1,4 @@
 # Multi-functional Robot
-## ELEC 291 Project 1
 
 #### Members
 * Omar Dzick
